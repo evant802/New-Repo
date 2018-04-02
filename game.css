@@ -1,0 +1,34 @@
+body{
+color: white;
+background-color: black;
+}
+
+
+div{
+font-family: "Comic Sans MS";
+display: none;
+font-size: 18pt;
+}
+
+a:hover{
+  background-color: yellow;
+  color: black;
+}
+
+#continue{
+  font-style: italic;
+
+}
+#inventoryBox{
+  display: flex;
+  color:black;
+  background: white;
+  position: fixed;
+  bottom: 100px;
+  right: 100px;
+}
+
+#inventoryBox:hover{
+  background-color: yellow;
+  color: black;
+}
